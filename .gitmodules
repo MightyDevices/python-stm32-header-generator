@@ -1,0 +1,3 @@
+[submodule "SVDParser"]
+	path = SVDParser
+	url = https://github.com/MightyDevices/python-cmsis-svd-parser
